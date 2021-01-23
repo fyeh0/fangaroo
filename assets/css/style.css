@@ -1,3 +1,19 @@
-.carousel-inner {
-    max-height: 50vh;
+#mainContent {
+  margin: auto auto;
 }
+
+h1 {
+  font-family: "Shadows Into Light", "Bradley Hand", cursive;
+  font-style: italic;
+  font-size: xx-large;
+  padding: .3em .5em;
+}
+
+#jewelryCarousel {
+  max-height: 50vh;
+  max-width: 50vw;
+}
+
+/* .carousel-inner {
+  max-height: 50vh;
+} */
